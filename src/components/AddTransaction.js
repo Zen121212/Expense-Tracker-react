@@ -19,7 +19,7 @@ export const AddTransaction = () => {
         <div className="form-controle">
           <label htmlFor="amount">
             Amount <br />
-            (negative - expese, positive - income)
+            (negative - expense, positive - income)
           </label>
           <input
             type="number"
